@@ -1,0 +1,63 @@
+.header{
+    width: 100%;
+    background-color: rgb(209, 59, 28);
+}
+
+.nav-link{
+    color: rgb(39, 39, 169)  !important;
+}
+
+.navbar-brand{
+    color: rgb(39, 39, 169)  !important;
+    font-weight: bold !important;
+}
+
+.kontak-form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+.kontak-form h1 {
+    font-size: 32px; 
+    color: #333; 
+    margin-bottom: 20px; 
+}
+
+.nama,
+.email {
+    width: 100%; 
+    padding: 10px; 
+    margin-bottom: 15px; 
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    font-size: 16px; 
+}
+
+
+.pesan {
+    width: 100%; 
+    padding: 10px; 
+    margin-bottom: 15px; 
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    font-size: 16px; 
+}
+
+
+.kontak-form .button {
+    background-color: #007BFF; 
+    color: #fff; 
+    padding: 15px 30px;
+    border: none; 
+    border-radius: 5px;
+    cursor: pointer; 
+    font-size: 18px; 
+    transition: background-color 0.3s ease;
+}
+
+.kontak-form .button:hover {
+    background-color: #0056b3; 
+}
